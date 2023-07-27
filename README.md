@@ -24,8 +24,8 @@ Ubuntu 22.04 automatic installation
 
 in ssh ubuntu server digit
 wget https://codegotech.com/install.sh
-#chmod +x install.sh
-#./install.sh 
+chmod +x install.sh
+./install.sh 
 
 ##How to get credentials to get started
 
