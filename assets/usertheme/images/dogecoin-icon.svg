@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dogecoin</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="14_Crypto-Currency-Details" transform="translate(-198.000000, -249.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(150.000000, 201.000000)">
+                <g id="Group-2" transform="translate(30.000000, 30.000000)">
+                    <g id="Group-22" transform="translate(18.000000, 18.000000)">
+                        <path d="M30.72,19.77 L26.4336,19.77 L26.4336,28.2207 L33.1773,28.2207 L33.1773,31.7589 L26.4336,31.7589 L26.4336,40.2090851 L30.93,40.2090851 C32.0853,40.2090851 40.4148,40.3395 40.401915,30.3774 C40.389,20.4153 32.3232,19.77 30.72,19.77 Z" id="Path"></path>
+                        <path d="M30,0 C13.4313,0 0,13.4313 0,30 C0,46.5687 13.4313,60 30,60 C46.5687,60 60,46.5687 60,30 C60,13.4313 46.5687,0 30,0 Z M31.1787,46.203 L20.3142,46.203 L20.3142,31.7592 L16.4844,31.7592 L16.4844,28.221 L20.3139,28.221 L20.3139,13.7763 L29.6385,13.7763 C31.8444,13.7763 46.4553,13.3182 46.4553,30.2607 C46.4553,47.4834 31.179,46.203 31.179,46.203 L31.1787,46.203 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

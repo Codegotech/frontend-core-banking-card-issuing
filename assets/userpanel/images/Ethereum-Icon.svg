@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="29px" viewBox="0 0 18 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Ethereum-Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ethereum-Icon" transform="translate(0.000000, 0.590536)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="8.99789598 0 8.80113499 0.638087764 8.80113499 19.1523503 8.99789598 19.3397406 17.995029 14.2597736"></polygon>
+            <polygon id="Path" points="8.99743355 0 0 14.2597736 8.99743355 19.3397406 8.99743355 10.3533977"></polygon>
+            <polygon id="Path" points="8.99731795 20.9667346 8.88645203 21.0958208 8.88645203 27.6909219 8.99731795 28 18 15.8894178"></polygon>
+            <polygon id="Path" points="8.99743355 28 8.99743355 20.9667346 0 15.8894178"></polygon>
+        </g>
+    </g>
+</svg>

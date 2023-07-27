@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="28px" viewBox="0 0 16 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mirror-Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mirror-Icon" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M12,5.28888889 L12,0.777777778 L8,0 L8,4.51111111 L4,3.57777778 L4,8.08888889 L0,7.15555556 L0,21.6222222 L4,22.5555556 L4,27.0666667 L8,28 L8,23.4888889 L12,24.4222222 L12,19.9111111 L16,20.8444444 L16,6.37777778 L12,5.28888889 Z M8.8,20.6888889 L3.2,19.4444444 L3.2,10.8888889 L8.8,12.1333333 L8.8,20.6888889 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

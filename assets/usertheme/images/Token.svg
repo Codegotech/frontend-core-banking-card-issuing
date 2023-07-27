@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="28px" viewBox="0 0 21 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Token</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="8_Crypto-Currency-Details" transform="translate(-603.000000, -639.000000)" stroke="#ABABFF" stroke-width="2.5">
+            <g id="Group-10" transform="translate(150.000000, 201.000000)">
+                <g id="Group-18" transform="translate(30.000000, 261.000000)">
+                    <g id="Group-15" transform="translate(382.856333, 135.000000)">
+                        <g id="Group-14" transform="translate(21.143667, 26.000000)">
+                            <g id="Token" transform="translate(21.000000, 18.000000)">
+                                <ellipse id="Oval" cx="8.5" cy="5.14147996" rx="8.5" ry="5.14147996"></ellipse>
+                                <path d="M0,5.14469339 L0,12 C0,14.8398108 3.8063,17.14148 8.5,17.14148 C13.1937,17.14148 17,14.8398108 17,12 L17,5.14469339" id="Path"></path>
+                                <path d="M0,12.0032134 L0,18.85852 C0,21.6983308 3.8063,24 8.5,24 C13.1937,24 17,21.6983308 17,18.85852 L17,12.0032134" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

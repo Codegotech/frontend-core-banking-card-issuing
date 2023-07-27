@@ -1,0 +1,306 @@
+@media (max-width:1560px) {
+header .navbar-nav > li { margin: 0 15px;}
+header .navbar-light .navbar-nav .nav-link{ font-size:14px;}
+header .dropdown-item{ font-size:14px;}
+.hero_sec h1{ font-weight: 900; font-size: 60px; line-height:70px;}
+.hero_sec p{ font-size:16px; line-height:28px;}
+.bank_info .block p { padding: 0 0 0 30px; font-size: 16px; line-height: 23px;}
+.bank_info .block { padding:30px;}
+.choose{ margin-bottom:30px;}
+.choose1,.choose2{ left: 30px;}
+.choose h3{ font-size:16px; margin: 0 0 16px;}
+.choose p{ font-size:14px;}
+.choose_sec .descrip p{ font-size:16px; line-height:28px;}
+.about_sec p{ font-size: 16px; line-height: 26px; max-width: 1170px;}
+.services_sec .info{ font-size:16px; margin-bottom:70px;}
+.become_sec .detail { padding: 0 0 0 30px;}
+.bm_sec p{ font-size:16px; line-height:28px;}
+.info_contact p { margin: 0 0 40px; font-size: 20px; line-height: 33px;}
+.middle_foot { padding: 45px 20px 0;}
+ul.foot_link li{ font-size:18px;}
+.add_block {padding: 45px 40px;}
+.add_block ul li { font-size: 18px; line-height: 30px;}
+.add_block ul li img { top: 3px;}
+.add_block ul li a.envlope img { top: 6px;}
+
+.benifit_info .flex-row-reverse .detail { padding-bottom: 0;}
+.benifit_info p{ font-size: 16px; line-height: 26px;}
+.advantage_sec p{ font-size: 16px; line-height: 26px;}
+.list li{ font-size: 16px; line-height: 26px;}
+.secure_sec .detail p{ font-size: 16px; line-height: 26px;}
+.secure{ padding:47px 12px 30px;}
+.secure p{ font-size:14px;}
+
+.get_inn .detail { padding: 74px 70px 40px 64px;}
+.login_info .form_info { padding: 60px 60px 40px;}
+
+.about_detail img.float-end{ width:600px;}
+.plan_serve ul li { font-size:18px;}
+.plan_serve ul li span{ font-size:18px;}
+
+/** Keval **/
+.typo_info p.small{ font-size:16px; line-height:26px;}
+.typo_info p{ font-size:18px; line-height:28px;}
+.typo_info span{ font-size:18px; line-height:28px;}
+ul.topic_list li{ font-size:18px;}
+ul.topic_list li:before{ top:12px;}
+.typo_info p strong{ font-size:18px;}
+ul.simple_list li{ font-size:18px; line-height:28px;}
+ul.simple_list li:before{ top:12px; width:6px; height:6px;}
+.typo_info h5{ font-size:18px;}
+.typo_info p.medium{ font-size:18px; line-height:28px;}
+ul.simple_list li strong{ font-size:18px;}
+}
+
+@media (max-width:1279px) {
+.container{ width:90%; margin:0 auto; padding:0;}
+header .navbar-nav > li { margin: 0 10px;}
+header .login{ padding:16px 36px;}
+.hero_sec figure { margin: 0 -30px 0 -40px;}
+.hero_sec h1 { font-size: 46px; line-height: 56px; margin-bottom:30px;}
+.bank_info .block { padding: 30px 10px;}
+h2.title{ padding: 0 0 26px; font-size: 38px; line-height: 45px;}
+h2.title small{ font-size:18px;}
+.choose_sec{ padding:100px 0;}
+.choose{ padding:33px 15px 40px; min-height:270px;}
+.choose h3 { line-height: normal;}
+.about_sec figure{ margin:0;}
+.services_sec{ padding:100px 0;}
+.service p{ font-size:15px;}
+.service figure{ margin-bottom:10px;}
+.services_sec .info { margin-bottom: 50px;}
+.bm_sec{ padding-bottom:70px;}
+.bm_sec.become_sec{ padding-bottom:0;}
+.money_sec .detail { padding: 60px 0 0;}
+.info_contact .inner{ padding:60px 40px 30px;}
+.info_contact p { margin: 0 0 30px; font-size: 18px; line-height: 30px;}
+.info_contact figure { padding-right: 30px;}
+.become_sec .detail { padding: 0;}
+
+footer { padding: 80px 0 20px;}
+.info_contact ~ footer{ padding-top:360px;}
+footer p{ margin-bottom:0; padding:20px 0 0 0; border:none; border-top: 1px solid #E8E8E8; text-align:center;}
+footer figure { margin: 0 0 30px; padding: 0;}
+.middle_foot{ padding:45px 0 0;}
+
+.hero_sec.crad_hero { padding: 160px 0 100px;}
+.benifit_info{ padding: 100px 0;}
+.advantage_sec{ padding: 100px 0;}
+.advantage_sec .list{ margin:60px 0 80px;}
+.secure_sec{ padding: 100px 0;}
+
+.inner_banner { padding: 160px 0 34px;}
+.plan_serve ul li { font-size:16px; padding:9px 30px 14px;}
+.plan_serve ul li span{ font-size:16px;}
+.plan_serve ul li.list_title span{ font-size: 20px;}
+
+.get_sec { padding: 140px 0 100px;}
+.get_inn .detail { padding:40px 40px 10px;}
+.get_inn .form_info{ padding:40px;}
+.login_info .form_info { padding: 40px;}
+.login_info .form_info p{ font-size:18px;}
+.form-check .form-check-label{ font-size:16px; line-height:25px;}
+.forgot_link{ font-size:16px;}
+
+.about_detail { padding: 100px 0 80px;}
+.about_detail .detail { padding-top:40px;}
+.about_detail .detail2 { padding-top:60px;}
+.about_detail p { font-size: 16px; line-height: 26px;}
+
+.about_detail img.float-end{ width:50%;}
+.current_plan .price span{ font-size:16px;}
+.add_info{ font-size:16px; line-height:28px;}
+
+/** Keval **/
+.join_sec{ padding: 140px 0 100px;}
+}
+
+/************ Main **************/
+@media (max-width: 991px) {
+header{ padding:20px 0;}
+.navbar-light .navbar-toggler{ background:none; border:none; position:relative; right:0; top:0; height: 33px; box-shadow:none;}
+.navbar-toggler:focus,.navbar-toggler:active { outline: 0;}
+.navbar-toggler span {display: block; background-color:#3a373a; height:3px; width:25px; margin-top:4px; margin-bottom:4px; -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg);-o-transform: rotate(0deg);  transform: rotate(0deg); position: relative; left: 0;opacity: 1;}
+.navbar-toggler span:nth-child(1),.navbar-toggler span:nth-child(3) { -webkit-transition: transform .35s ease-in-out; -moz-transition: transform .35s ease-in-out; -o-transition: transform .35s ease-in-out; transition: transform .35s ease-in-out;}
+.navbar-toggler:not(.collapsed) span:nth-child(1) { position: absolute; left: 12px; top: 10px; -webkit-transform: rotate(135deg);  -moz-transform: rotate(135deg); -o-transform: rotate(135deg);transform: rotate(135deg); opacity: 0.9;}
+.navbar-toggler:not(.collapsed) span:nth-child(2) {height: 12px; visibility: hidden; background-color: transparent;}
+.navbar-toggler:not(.collapsed) span:nth-child(3) {position: absolute;left: 12px;top: 10px;-webkit-transform: rotate(-135deg);-moz-transform: rotate(-135deg); -o-transform: rotate(-135deg);transform: rotate(-135deg);opacity: 0.9;}  
+.navbar-nav{ padding-top:15px;}
+header .navbar-nav > li{ margin:0;}
+header .navbar-light .navbar-nav .nav-link{ padding:10px 0; border-bottom:1px solid rgba(0,0,0,0.15);}
+.hero_sec { padding: 130px 0 20px;}
+header .login{ width:100%; text-align:center; margin-top:10px;}
+header .navbar-nav .dropdown-menu{ border:none; padding:10px 0 10px 30px;}
+header .dropdown-item{ border-bottom:1px solid rgba(0,0,0,0.15);}
+.downloads{ display: flex;}
+.hero_sec h1 { font-size: 36px; line-height: 40px;}
+.hero_sec p { font-size: 14px; line-height: 24px; margin-bottom:30px;}
+.downloads a:first-child { margin-right: 15px;}
+.bank_info .block p { padding: 0 0 0 20px; font-size: 14px; line-height: 20px;}
+.bank_info .block { padding: 30px 0;}
+.bank_info .block figure img{ height: 47px;}
+.choose_sec{ padding:40px 0 30px;}
+.choose_sec .descrip p{ max-width:100%;}
+.choose{ left:0 !important; min-height:inherit;}
+.choose_sec .btn{ margin-bottom:30px;}
+.about_sec{ padding-bottom:40px;}
+.about_sec p{ font-size: 14px; line-height: 23px;}
+.services_sec{ padding:40px 0;}
+.services_sec .row > div:nth-child(2n) { margin-top: 0;}
+.become_sec.bm_sec figure{ margin:0 0 0 -50px;}
+h2.title { font-size: 30px; line-height: 36px;}
+h2.title small { font-size: 15px;}
+.bm_sec p{ font-size: 14px; line-height: 24px;}
+.bm_sec{ padding:40px 0;}
+.money_sec .detail { padding:0;}
+.form_info .form-group label { margin: 0 0 6px; font-size: 14px;}
+.form_info .form-group .form-control{ height:48px;}
+.form_info .form-group textarea.form-control{ height:120px;}
+.form_info .btn { min-width: 160px; margin-top: 0;}
+.info_contact p { font-size: 14px; line-height: 25px;}
+.info_contact .inner { padding: 40px 30px 10px;}
+footer p{ font-size:14px; line-height:23px;}
+.add_block { padding: 30px 30px 20px;}
+footer h3{ font-size: 18px; line-height: 24px;}
+.middle_foot { padding: 30px 0 0;}
+.add_block ul li { margin: 0 0 18px; padding: 0 0 0 34px; font-size: 16px; line-height: 26px;}
+.add_block ul li a.envlope img { top: 4px;}
+.add_block ul li img { top: 1px;}
+ul.foot_link li { font-size: 15px; margin: 0 0 10px;}
+
+footer { padding: 40px 0 20px;}
+.info_contact ~ footer{ padding-top:360px;}
+
+.hero_sec.crad_hero { padding: 120px 0 40px;}
+.hero_sec p{ max-width: 400px;}
+
+.benifit_info{ padding: 40px 0;}
+.advantage_sec{ padding: 40px 0;}
+.advantage_sec .list{ margin:30px 0 40px;}
+.benifit_info p{ font-size:14px; line-height:23px;}
+.advantage_sec p{ font-size:14px; line-height:23px;}
+.list li{ font-size:14px; line-height:23px;}
+.advantage_sec .list li{ margin:0 20px 10px 20px;}
+.secure_sec{ padding: 40px 0 10px;}
+.secure_sec .detail p{ font-size:14px; line-height:23px;}
+.secure_sec .detail{ max-width: 100%; margin-bottom:30px;}
+.secure { margin:0 0 30px; left:0 !important;}
+
+.current_plan{ max-width:100%; padding:12px 30px 14px;}
+.inner_banner { padding: 120px 0 10px;}
+.plan_serve{ padding:40px 0;}
+.plan_serve h2{ font-size:26px;}
+
+.get_sec { padding: 140px 0 40px;}
+.get_inn .detail{ border-radius: 20px 20px 0 0;}
+.get_inn h4{ font-size:20px;}
+.get_inn .form_info h3{ font-size:22px; margin-bottom:30px;}
+
+.head_curve::before, .head_curve::after{ width: 30%; background-size: 100% auto;}
+.login_info .form_info { padding: 30px;}
+.login_info .form_info p{ font-size:16px; margin-bottom:30px;}
+.form-check .form-check-label{ font-size:14px; line-height:23px; padding:0 0 0 5px;}
+.form-check .form-check-input { width: 20px; height: 20px; margin-top: 2px;}
+.forgot_link{ font-size:14px;}
+
+.mb-70{ margin-bottom:40px !important;}
+.about_detail { padding: 40px 0 10px;}
+.about_detail .mb-70{ margin-bottom:10px !important;}
+.about_detail .detail:not(.detail2){ padding-top: 0;}
+
+/** Keval **/
+.typo_info h3{ font-size:20px;}
+.typo_info p.small{ font-size:14px; line-height:24px;}
+.typo_info p{ font-size:16px; line-height:26px;}
+.typo_info span{ font-size:16px; line-height:26px; margin-bottom:30px;}
+.typo_info h4{ font-size:20px; margin-top:20px;}
+.typo_info h4::before{ height:2px;}
+.typo_info .gray_bg{ padding:10px 0 20px 0;}
+.typo_info .gray_bg h4{ margin-bottom:20px;}
+ul.topic_list li{ font-size:14px;}
+ul.topic_list li::before{ top:9px;}
+.typo_info p strong{ font-size:16px; line-height:26px; margin-bottom:10px;}
+ul.simple_list li{ font-size:16px; line-height:26px; padding:0 0 0 15px;}
+ul.simple_list li::before{ width:5px; height:5px; top:12px;}
+ul.simple_list.mb-5{ margin-bottom:30px !important;}
+.typo_info h5{ font-size:16px;}
+.typo_info p.medium{ font-size:16px; line-height:26px;}
+ul.simple_list li strong{ font-size:16px;}
+.typo_info{ padding:40px 0 20px 0;}
+.typo_info figure{ width:100%; margin-bottom:30px; text-align:center;}
+.about_detail p { font-size: 14px; line-height: 23px;}
+.join_sec{ padding: 140px 0 40px;}
+.join_sec h3{ margin-bottom:30px;}
+.join_sec .btn{ margin-top:23px;}
+.join_sec .form_info .form-group-icon i{ top:36px;}
+}
+
+@media (max-width: 767px) {
+html { -webkit-text-size-adjust:none;}
+.container{ width:90%; margin:0 auto; padding:0; max-width: inherit;}
+.middle_foot { padding: 0;}
+.hero_sec{ text-align:center;}
+.downloads{ justify-content: center;}
+.bank_info .block::before { content: ""; width: 100%; height: 1px; right:0; top: auto; bottom: 0; margin: 0;}
+.bank_info .block { padding: 15px 0;}
+.become_sec.bm_sec figure { margin:0;}
+.info_contact figure{ padding:0;}
+.info_contact .inner { padding: 40px 20px 10px;}
+.hero_sec figure { margin:0;}
+.services_sec .info { margin-bottom: 30px;}
+.hero_sec { padding: 100px 0 20px;}
+.hero_sec h1 { font-size: 30px; line-height: normal;}
+.green_yellow_curve::before,
+.green_yellow_curve::after{ width: 20%; height: 38vh; top: -20vh;}
+.money_sec::before,
+.money_sec::after{ width: 20%; height: 38vh; top: -20vh;}
+header .navbar-light .navbar-nav .nav-link img { margin-right: 12px;}
+
+.hero_sec.crad_hero{ text-align:left;}
+.hero_sec.crad_hero { padding: 100px 0 40px; background-position: left center;}
+.list{ display:inherit !important;}
+.advantage_sec p{ margin-bottom:30px;}
+
+.plan_serve ul li{ padding: 9px 20px 14px; font-size: 16px;}
+.plan_serve ul li span { font-size: 18px;}
+.plan_serve ul li.list_title span{ font-size: 16px;}
+.plan_serve h2 { font-size: 23px;}
+
+.get_sec { padding-top:120px;}
+.add_info { margin: 0 0 20px; padding: 0 0 0 38px; font-size: 16px; line-height: 26px;}
+.get_inn h4{ margin: 0 0 27px;}
+.login_info figure{ display:none;}
+
+.about_detail .detail2 { padding-top: 0;}
+.about_detail{ text-align:center;}
+.plan_serve ul li{ font-size:15px;}
+
+/** Keval **/
+.typo_info span{ font-size:14px;}
+.join_sec{ padding-top:120px;}
+.join_sec .inner{ padding:30px;}
+.join_sec .btn{ margin:0;}
+.about_detail img.float-end{ width:100%; margin-bottom:20px;}
+}
+
+/************ iphone **************/
+@media (max-width:600px) {
+html { -webkit-text-size-adjust:none;}
+h2.title br{ display:none;}
+.secure{ min-height:inherit;}
+.plan_serve ul li{ display:block;}
+.current_plan{ display:block;}
+.current_plan .price { font-size: 30px; line-height: normal; margin-bottom:15px;}
+.current_plan .price span{ font-size:14px;}
+.current_plan .price small { font-size: 16px; margin: 10px 0;}
+
+.head_curve::before, .head_curve::after{ width: 45%;}
+.get_inn .detail { padding: 30px 20px 10px;}
+.get_inn .form_info { padding: 30px 20px;}
+.login_info .form_info { padding: 30px 20px;}
+
+.about_detail p{ font-size:15px; line-height:24px;}
+
+/** Keval **/
+.typo_info h4{ font-size:18px; padding:0 0 15px 0;}
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="residence_green" transform="translate(3 3)">
+    <path id="Path_21" data-name="Path 21" d="M-3-3H23V23H-3Z" fill="none" fill-rule="evenodd"/>
+    <path id="Path_22" data-name="Path 22" d="M17.583,7.169l-5.777-5.14a2.61,2.61,0,0,0-3.547,0L2.481,7.17A3.488,3.488,0,0,0,1.366,9.778V18.7a2.338,2.338,0,0,0,2.166,2.479h13A2.338,2.338,0,0,0,18.7,18.7V9.777a3.492,3.492,0,0,0-1.116-2.608" fill="none" stroke="#4fac68" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(3.158 5.895)">
+      <path id="Path_23" data-name="Path 23" d="M0,0H13.684V13.684H0Z" fill="none" fill-rule="evenodd"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="1" cy="1" r="1" transform="translate(5.842 5.272)" fill="none" stroke="#4fac68" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_24" data-name="Path 24" d="M10.068,9.5l-2.42,2.42a1.14,1.14,0,0,1-1.612,0L3.616,9.5a4.561,4.561,0,1,1,6.452,0Z" fill="none" stroke="#4fac68" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

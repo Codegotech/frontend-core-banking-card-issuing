@@ -1,0 +1,7 @@
+<svg id="app_wallet" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <path id="Path" d="M0,0H26V26H0Z" fill="none"/>
+  <rect id="Rectangle" width="19.5" height="15.167" rx="3.3" transform="translate(3.25 5.417)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path-2" data-name="Path" d="M0,.542H19.5" transform="translate(3.25 10.292)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path-3" data-name="Path" d="M.536.542H.547" transform="translate(7.047 15.708)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path id="Path-4" data-name="Path" d="M0,.542H2.167" transform="translate(11.917 15.708)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="29px" viewBox="0 0 21 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitcoin-Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Bitcoin-Icon" transform="translate(1.797959, 1.796986)" stroke="#FFFFFF" stroke-width="3.35051728">
+            <path d="M1.82067509,4.6263861 L12.4873418,4.6263861 C14.6964808,4.6263861 16.4873418,6.4172471 16.4873418,8.6263861 C16.4873418,10.8355251 14.6964808,12.6263861 12.4873418,12.6263861 C14.6964808,12.6263861 16.4873418,14.4172471 16.4873418,16.6263861 C16.4873418,18.8355251 14.6964808,20.6263861 12.4873418,20.6263861 L1.82067509,20.6263861" id="Path" transform="translate(9.154008, 12.626386) rotate(15.000000) translate(-9.154008, -12.626386) "></path>
+            <line x1="4.64635456" y1="3.41856389" x2="4.64635456" y2="19.4185639" id="Path" transform="translate(4.646355, 11.418564) rotate(15.000000) translate(-4.646355, -11.418564) "></line>
+            <line x1="4.51005787" y1="12.4538401" x2="12.5100579" y2="12.4538401" id="Path" transform="translate(8.510058, 12.453840) rotate(15.000000) translate(-8.510058, -12.453840) "></line>
+            <line x1="8.52244612" y1="0.104397683" x2="8.52244612" y2="4.10439768" id="Path" transform="translate(8.522446, 2.104398) rotate(15.000000) translate(-8.522446, -2.104398) "></line>
+            <line x1="13.6740505" y1="1.48476592" x2="13.6740505" y2="5.48476592" id="Path" transform="translate(13.674051, 3.484766) rotate(15.000000) translate(-13.674051, -3.484766) "></line>
+            <line x1="3.34606521" y1="19.4229142" x2="3.34606521" y2="23.4229142" id="Path" transform="translate(3.346065, 21.422914) rotate(15.000000) translate(-3.346065, -21.422914) "></line>
+            <line x1="8.49766962" y1="20.8032824" x2="8.49766962" y2="24.8032824" id="Path" transform="translate(8.497670, 22.803282) rotate(15.000000) translate(-8.497670, -22.803282) "></line>
+        </g>
+    </g>
+</svg>

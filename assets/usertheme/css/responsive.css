@@ -1,0 +1,258 @@
+
+@media (max-width:1800px) {
+.left_part { padding: 30px 15px 30px 30px;}
+.tranjection{ padding:40px 10px 0 30px;}
+ul.transhistry_list{ padding-right:30px;}
+.bal_block{ padding:25px;}
+.order_sidebar h3 { padding: 0 30px;}
+.table_sidebar .table th:first-child, .table_sidebar .table td:first-child { padding-left: 30px;}
+.benificiary .pe-100{ padding-right:0;}
+
+.table_info .table th:first-child, .table_info .table td:first-child{ padding-left:20px;}
+.table_info .table th:last-child, .table_info .table td:last-child{ padding-right:20px;}
+.table_info .table th.views{ width:145px;}
+.table_info caption{ padding:25px 20px 10px;}
+
+.cate_prz_block .dtl{ font-size:26px; padding:0 0 0 16px;}
+.cate_prz_block .dtl small{ font-size:14px;}
+.coin_service{ padding:20px 5px 25px;}
+}
+
+@media (max-width:1560px) {
+.main-header .logo{ height:80px;}
+.bal_block .amt{ font-size:40px;}
+.table_search{ max-width:250px;}
+.table_info caption { padding: 20px 20px 5px 20px;}
+.transition_history .table_info .table td br{ display:none;}
+.table_info .table th, .table_info .table td { font-size: 16px;}
+.status_tag{ display: block; white-space: normal; width: 105px;}
+.transition_history .table_info .table td:nth-child(5),
+.transition_history .table_info .table td:nth-child(6){ white-space:nowrap;}
+
+.mrchnd_block1{ padding: 37px 30px 10px;}
+.mrchnd_block2{ padding: 30px;}
+.mov p{ font-size:15px;}
+h3.title{ font-size:20px;}
+.input_block label{ font-size:16px;}
+.input_block .form-control{ font-size:16px;}
+
+}
+
+@media (max-width:1279px) {
+.container{ width:90%; margin:0 auto; padding:0; max-width: inherit;}
+.container-fluid{ padding-left:30px; padding-right:30px;}
+
+.main-header .sidebar-toggle{ margin:0 10px;}
+.nav_right .top_links > li{ margin-left:30px;}
+.nav_right .top_links li.dropdown span{ display:none;}
+.main-header > .navbar{ min-height:60px;}
+.main-header .logo{ height:60px; width: 140px; padding: 0 0 0 20px;}
+.main-header .logo .logo-lg img{ width:100px;}
+
+.bal_block .amt{ font-size:34px;}
+.bal_block h3{ font-size:20px; margin:0 0 30px 0;}
+.deposit_sec .block { padding: 15px; font-size: 18px;}
+.breadcrumb_info{ margin-bottom:30px;}
+.title{ margin-bottom:30px;}
+.main-header > .navbar{ padding:0 30px 0 20px;}
+.mov .icon{ margin-right:15px;}
+
+.transition_history .table_info .table td{ white-space:nowrap;}
+.transition_history .table_info .table td br{ display:block;}
+.transition_history .view_btn{ display: block; white-space: normal; width: 105px;}
+.transition_history .table_info .type_tag{ display: block ruby;}
+.view_btn img{ margin-right:5px;}
+.middle_content{ padding:30px 30px 0;}
+.cale_info { max-width: 180px;}
+.cale_info .form-control { padding: 0 20px 0 45px; font-size: 16px;}
+.table_search .form-control{ font-size: 16px;}
+.cale_info .fa { left: 15px; transform: translateY(-50%);}
+.table_btns { max-width: 90px; margin: 0 0 15px 10px; padding: 12px 15px; font-size: 14px;}
+
+.services_block{ margin-bottom:30px;}
+
+.mrchnd_block1 h3{ font-size:16px;}
+.mrchnd_block1 .mpay_link { margin-bottom: 28px;}
+.mpay_link{ font-size:16px;}
+.mrchnd_block1 p{ font-size:16px;}
+.mrchnd_block2 h3{ font-size:18px;}
+.list_info li { margin: 0 0 10px; font-size: 14px;}
+.qr_details{ padding-bottom:30px !important;}
+.verticale_tabs .nav-item .nav-link{ font-size:15px;}
+.btn{ font-size:15px;}
+
+}
+
+/************ Main **************/
+@media (max-width: 991px) {
+.breadcrumb_info { margin-bottom: 20px;}
+.title{ font-size:24px;}
+.left_part { padding: 20px 20px 0;}
+.tranjection { padding: 30px 10px 10px 30px;}
+.benificiary h3{ font-size:18px;}
+.tranjection h3{ font-size:18px;}
+ul.transhistry_list li{ padding:10px 0;}
+.sidebar { padding: 10px 0 10px 0;}
+.sidebar-menu > li > a{ padding:10px 35px 10px 25px;}
+
+.services_block{ padding:36px 30px 40px;}
+.services_block figure{ margin-bottom:40px;}
+
+h3.title { font-size: 18px;}
+
+.transfer_data p{ font-size:14px;}
+.wire_detail p{ font-size:14px;}
+.form-block label{ font-size:14px;}
+.form-block .form-control{ font-size:14px;}
+.conv_info .price span{ font-size:16px;}
+.form-block .form-select{ font-size:14px;}
+.wd_amt{ font-size:14px;}
+
+.mobile_img{ margin-left:-5px; margin-right:-5px;}
+.qr_inn p, .qr_inn .price ~ p, .qr_inn p small{ font-size:14px;}
+.qr_inn .copy_link{ font-size:14px;}
+.qr_inn .price{ font-size:46px;}
+.input_block label{ font-size:14px; margin-bottom:10px;}
+.input_block .form-control{ font-size:14px;}
+.setting_left{ font-size:14px;}
+.profile_tabs > .nav-item{ margin-right:30px;}
+
+.test_detail{ padding:30px 30px 0 30px;}
+.test_detail h3{ font-size:20px; margin-bottom:20px;}
+.test_info{ padding:25px 30px 5px 30px;}
+.inst_block{ padding:30px;}
+
+}
+
+@media (max-width: 767px) {
+html { -webkit-text-size-adjust:none;}
+p{ font-size:14px; line-height:22px;}
+.container-fluid{ padding-left:20px; padding-right:20px;}
+.nav_right .top_links li figure{ margin-right:0;}
+.nav_right .top_links li span{ display:none;}
+.nav_sec .nav_right .dropdown-menu{ left:auto; right:0;}
+
+.main-header > .navbar{ padding-right:20px;}
+.search-wrapper .input-holder .search-icon{ font-size:18px;}
+.nav_right .top_links > li{ margin-left:15px;}
+
+.bal_block .amt { font-size: 28px; display:flex; height:100%; align-items:center;}
+.bal_block { padding: 15px;}
+.bal_block .qr span { padding: 6px; border-radius: 6px;}
+.bal_block h3 { margin: 0 0 20px 0;}
+.breadcrumb_info li{ font-size:16px;}
+.main-header .sidebar-toggle { margin: 0;}
+.main-header .logo { padding: 0; margin: 0 auto 0 20px;}
+
+.tranjection .content{ height:80vh;}
+.table_info .table th, .table_info .table td { font-size: 14px;}
+
+.services_block h3{ font-size:16px;}
+.portfolio_balance .pb_top{ padding:20px 20px 0;}
+.portfolio_balance .pb_bottom { padding: 0 20px;}
+.clps_title{ padding:15px;}
+.bitcoin_left .dtl { padding: 0 0 0 15px; font-size: 18px;}
+.bitcoin_right p{ font-size:16px;}
+.bitcoin_right a { width: 30px; flex: 0 0 30px; height: 30px; margin: 0 0 0 15px; font-size: 20px; line-height: 30px;}
+.curency_strip .bitcoin_left .dtl { font-size: 16px; padding:0 10px;}
+.curency_strip .bitcoin_right p { font-size: 14px;}
+.curency_strip .bitcoin_left i { width: 40px; flex: 0 0 40px; height: 40px; padding: 12px;}
+.bitc_drop { padding: 15px 0 10px 0;}
+.bitc_drop h3{ margin-left:0; padding:0 10px; font-size:20px;}
+.portfolio_balance .pb_top strong { font-size: 30px; line-height: 30px;}
+
+.wallet_detail .wallet_top{ padding:20px 20px 5px;}
+.wallet_bottom { padding: 20px 20px 0;}
+.w_icon { width: 70px; height: 70px; border-radius: 10px; line-height: 70px;}
+.w_icon_title{ font-size:20px;}
+.w_icon img { width: 30px;}
+
+.wire_detail{ padding:20px 0 10px 0; width:100%;}
+.mobile_img{ height:auto; margin-bottom:20px;}
+
+.qr_inn{ padding:30px;}
+.qr_inn p{ margin-bottom:25px;}
+.qr_img{ margin-bottom:25px;}
+.qr_inn .price{ font-size:40px; line-height:normal;}
+
+.form-content{ background:inherit;}
+.responsive-tabs{ filter:inherit;}
+.responsive-tabs .card-header{ padding:0; /*background:#fefefe;*/ border-bottom:none;}
+.responsive-tabs .card-header:first-child{ border-radius:10px 10px 0 0;}
+.responsive-tabs .card{ border-radius:10px; margin-bottom:10px;}
+.responsive-tabs .card-header a{ padding:.5rem 1rem; display:block; font-size:14px; font-weight:600; color:#484845; text-transform:uppercase;}
+.responsive-tabs .card-header a span{ display:inline-block; position:relative; top:3px;}
+.responsive-tabs .card-header a i{ margin-right:10px;}
+.responsive-tabs .card-body{ border-top:1px solid rgba(0,0,0,.125);}
+.form-content.card-body{ padding:0;}
+
+/*.profile_tabs > .nav-item{ margin:0 10px -3px 0;}
+.profile_tabs > .nav-item:last-child{ margin-right:0;}
+.profile_tabs > .nav-item .nav-link{ padding-bottom:10px; font-size:12px; flex-direction:column; display:flex; white-space:normal; padding:0 5px 5px; line-height:normal; text-align:center; align-items: center;}
+.profile_tabs > .nav-item .nav-link i{ margin:0 0 3px;}*/
+.profile_tabs{ border-width:1px; margin-top:10px;}
+.profile_tabs > .nav-item{ margin-bottom:-1px; width:25%;}
+.profile_tabs > .nav-item .nav-link{ padding:0 5px 10px; width:100%;}
+.profile_tabs > .nav-item .nav-link i{ margin:0;}
+.profile_tabs > .nav-item .nav-link span{  display:none;}
+
+.input_block{ margin-bottom:20px;}
+h3.title{ margin-bottom:20px;}
+.setting_left i{ margin-right:10px;}
+.profile_content  .table_info .table td{ white-space:nowrap;}
+.test_detail{ padding:30px 20px 0 20px;}
+
+.table_info .table th:last-child, .table_info .table td:last-child { padding-right: 30px;}
+
+.amt_detail {	
+	width: 420px;
+}
+.Preview_info .table_info {
+	padding: 10px 0px;
+}
+}
+
+/************ iphone **************/
+@media (max-width:599px) {
+html { -webkit-text-size-adjust:none;}
+/*.deposit_sec [class^="col-"], .deposit_sec > [class*="col-"] { margin-bottom: 15px;}*/
+.left_part{ padding:20px 5% 0;}
+.tranjection{ padding-left:5%;}
+
+.deposit_sec .block { padding: 15px; font-size: 15px; display: block; float:left; width:100%; text-align:center;}
+.deposit_sec .block span{ display:inline-block;}
+.deposit_sec .block i { min-height: 46px; display: flex; text-align: center; margin-bottom:5px; align-self:center; justify-content: center;}
+
+.middle_content{ padding:30px 5% 0;}
+
+.search_box{ padding:0; width:auto; max-width:inherit; margin:0 10px 15px; float:none;}
+.curency_strip{ padding:10px;}
+.portfolio_balance .pb_top{ text-align:center;}
+
+.wallet_detail .wallet_top .btn{ width:100%; margin-right:0 !important; margin-bottom:10px !important;}
+.wallet_detail .lbl_white{ width:100%; text-align:center;}
+
+.transfer_data .line{ padding-bottom:20px; margin-bottom:20px;}
+.transfer_data .line:after{ content:""; width:200px; height:1px; left:50%; top:50%; transform:translate(-50%, -50%);}
+
+.mrchnd_block1{ padding: 20px 20px 10px;}
+.mrchnd_block2{ padding: 20px;}
+.mrchnd_block1 .btn { margin-bottom: 20px;}
+
+/*.profile_tabs{ border:none; padding-bottom:5px; margin:30px 0 15px;}
+.profile_tabs > .nav-item{ margin:0 10px 0 0;}
+.profile_tabs > .nav-item:last-child{ margin-right:0;}
+.profile_tabs > .nav-item .nav-link span{ display:inline-block; min-height:34px;}*/
+
+/*****  Keval  ****/
+.key_link{ font-size:15px; line-height:40px;}
+.bitcoin_info p{ text-align:left; margin-bottom:5px;}
+.bitcoin_info .big_txt{ font-size:14px;}
+.new_card .transfer_data .btn{ min-width:215px;}
+.amt_detail {	
+	width: 420px;
+}
+.Preview_info .table_info {
+	padding: 10px 0px;
+}
+}

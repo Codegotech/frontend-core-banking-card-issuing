@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="8_Crypto-Currency-Details" transform="translate(-220.000000, -639.000000)" stroke="#FF9494" stroke-width="2.5">
+            <g id="Group-10" transform="translate(150.000000, 201.000000)">
+                <g id="Group-18" transform="translate(30.000000, 261.000000)">
+                    <g id="Group-15" transform="translate(0.000000, 135.000000)">
+                        <g id="Group-14" transform="translate(24.000000, 26.000000)">
+                            <g id="Copy" transform="translate(17.666667, 17.666667)">
+                                <rect id="Rectangle" x="5.66666667" y="5.66666667" width="17" height="17" rx="2.83333333"></rect>
+                                <path d="M17,5.66666667 L17,2.83333333 C17,1.26852654 15.7314735,0 14.1666667,0 L2.83333333,0 C1.26852654,0 0,1.26852654 0,2.83333333 L0,14.1666667 C0,15.7314735 1.26852654,17 2.83333333,17 L5.66666667,17" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
