@@ -2,7 +2,7 @@
 
 Codego Sandbox github is an demontration of how the sandbox api will work on your whitelabel system.To run this script you need to create sandbox account on https://apikey-sandbox.codegotech.com/ to get your api keys
 
-##System Requirements
+##System Requirements manual installation
 	PHP 8.0 or above
 
 ##what you need to do to see landing Page
@@ -20,7 +20,12 @@ and upload on your server
 If the script has to run in a subfolder then define RewriteBase /yourfoldername  in .htacess file
 But if its running on root then define RewriteBase /y
 
-	
+Ubuntu 22.04 automatic installation
+
+in ssh ubuntu server digit
+wget https://codegotech.com/install.sh
+#chmod +x install.sh
+#./install.sh 
 
 ##How to get credentials to get started
 
