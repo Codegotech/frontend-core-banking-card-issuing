@@ -1,4 +1,4 @@
-# CodegoSandbox
+# Codego Sandbox SDK core banking frontend
 
 Codego Sandbox github is an demontration of how the sandbox api will work on your whitelabel system.To run this script you need to create sandbox account on https://apikey-sandbox.codegotech.com/ to get your api keys
 
