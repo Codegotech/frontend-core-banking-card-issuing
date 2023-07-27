@@ -22,10 +22,10 @@ But if its running on root then define RewriteBase /y
 
 Ubuntu 22.04 automatic installation
 
-in ssh ubuntu server digit
-wget https://codegotech.com/install.sh
-chmod +x install.sh
-./install.sh 
+in ssh ubuntu server digit : 
+1) wget https://codegotech.com/install.sh
+2) chmod +x install.sh
+3) ./install.sh 
 
 ##How to get credentials to get started
 
