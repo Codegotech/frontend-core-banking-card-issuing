@@ -36,7 +36,7 @@ define('WHITELABEL_ID', ''); //copy paste whitelabel id here
 
 ##set the authentication token
 
-To get a authentication token please run URL with https://abc.com/authenticate an authentication code will be populated.Copy that code and set in file app\Config\Constants.php
+To get a authentication token please run URL with https://yourdomain.com/authenticate an authentication code will be populated.Copy that code and set in file app\Config\Constants.php
 
 define('AUTHTOKEN', '');  //copy paste authentication token here
 
@@ -55,6 +55,6 @@ define('GOOGLE_SECRET_KEY', '');
 define('GOOGLE_HOST', '');
 
 
-Once all these settings done start signup for your whitelabel https://abc.com/signup
+Once all these settings done start signup for your whitelabel https://yourdomain.com/signup
 
 	
