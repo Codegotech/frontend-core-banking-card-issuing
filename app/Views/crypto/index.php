@@ -7,6 +7,8 @@
 
      print_r($validation->listErrors());
    }
+   $user_wallet_symbol='€';
+   $user_wallet='eur';
  echo $this->section("body")?>
 <style>
 .bal_block .amt { font-size: 32px;}
