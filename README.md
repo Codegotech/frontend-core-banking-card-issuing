@@ -25,7 +25,24 @@ Ubuntu 22.04 automatic installation
 in ssh ubuntu server digit : 
 1) wget https://codegotech.com/install.sh
 2) chmod +x install.sh
-3) ./install.sh 
+3) ./install.sh
+4) edit apache.conf in this folder /etc/apache/apache.conf
+5) change from <Directory /var/www/>
+        Options Indexes FollowSymLinks
+        AllowOverride None
+        Require all granted
+</Directory>
+
+to
+
+<Directory /var/www/>
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+</Directory>
+
+6) service apache2 restart
+7) Installation Done
 
 ##How to get credentials to get started
 
