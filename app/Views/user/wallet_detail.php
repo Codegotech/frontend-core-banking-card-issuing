@@ -207,7 +207,7 @@ echo $this->section("body");
 		
 		<?php 
 		} 
-		if($wallet['wallet']=='Main Wallet'){ 
+		if(isset($wallet['wallet']) && $wallet['wallet']=='Main Wallet'){ 
 		?>	
 		<div class="modal fade modal_info tranj_modal" id="onboardingFormModal" tabindex="-1" aria-labelledby="onboardingFormModalLabel" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered">
@@ -403,7 +403,7 @@ echo $this->section("body");
 		}
 		});
 		<?php } ?>
-		<?php if($wallet['wallet']=='Main Wallet'){ ?>	
+		<?php if(isset($wallet['wallet']) && $wallet['wallet']=='Main Wallet'){ ?>	
 		$('#movebalance').validate({
 		rules: {
 			amount: {
