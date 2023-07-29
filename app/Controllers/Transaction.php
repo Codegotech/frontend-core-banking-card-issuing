@@ -26,7 +26,8 @@ class Transaction extends BaseController
 		
 		 $user_id=$this->session->get('user_id');
 		 $data=array();
-
+		 $startdate='';
+		 $enddate='';
 		 $transaction = array();
 		 $params = array();
 			isset($_GET['page'])? $page = $_GET['page'] : $page = 1;
