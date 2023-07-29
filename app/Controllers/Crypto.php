@@ -25,7 +25,8 @@ class Crypto extends BaseController
 	public function index()
 	{
 		$param_curr = array();	
-		$coinlist = requestdata('getAllwallet',$param_curr);		
+		$coinlist = requestdata('getAllwallet',$param_curr);
+
 		if($coinlist['is_crypto']==0)
 		{
 			$this->session->setFlashdata('error', $coinlist['message']);
@@ -33,7 +34,9 @@ class Crypto extends BaseController
 		}
 		$data = array();
 		$data['coinlist'] = $coinlist;			
-		
+		 $data['title']='Cryto Wallet';
+		 $data['meta_keywords'] = 'Cryto Wallet';
+		 $data['meta_description'] = 'Cryto Wallet';
 		return view('crypto/index', $data);
 		
 	}
@@ -57,6 +60,9 @@ class Crypto extends BaseController
 		$data = array();	
 		$data['coin'] = $coin;	
 		$data['coinlist'] = $coinlist;	
+				 $data['title']='Cryto Wallet';
+		 $data['meta_keywords'] = 'Cryto Wallet';
+		 $data['meta_description'] = 'Cryto Wallet';
 		return view('crypto/wallet', $data);
 		
 	}
@@ -109,6 +115,9 @@ class Crypto extends BaseController
 			$data['title'] = 'Trading Exchange';
 			
 		}	
+				 $data['title']='Cryto Wallet';
+		 $data['meta_keywords'] = 'Cryto Wallet';
+		 $data['meta_description'] = 'Cryto Wallet';
 		//echo '<pre>';print_r($data);die;	
 		return view('crypto/exchange', $data);
 		
